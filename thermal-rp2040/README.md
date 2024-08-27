@@ -1,0 +1,1 @@
+`circup --path /Volumes/thermal install adafruit_mlx90640`
